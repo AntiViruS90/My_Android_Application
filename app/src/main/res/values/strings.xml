@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="random_word" translatable="false">Random Word</string>
+    <string name="напишите" translatable="false">Напишите слово</string>
+    <string name="Осталось_слов" translatable="false">Осталось слов: 300</string>
+    <string name="_300" translatable="false">Осталось слов: 300</string>
+    <string name="_0" translatable="false">Баллы: 0</string>
+</resources>
